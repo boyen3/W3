@@ -1,0 +1,39 @@
+{
+  "l8n": {
+    "MNIST_ep10": {
+      "en": "MNIST_ep10",
+      "zh": "lenet"
+    }
+  },
+  "use_what": {
+    "zh": "使用%s神經網路",
+    "en": "Using %s"
+  },
+  "title": {
+    "zh": "手寫GUI：->%s網路",
+    "en": "Handwriting GUI：->%s"
+  },
+  "switch": {
+    "zh": "換%s",
+    "en": "use %s"
+  },
+  "stringvar": {
+    "zh": "預測戳滾輪、筆粗細->",
+    "en": "clicking middle button to predict,\nscrolling to change font size->"
+  },
+  "Answer": {
+    "zh": "我是答案",
+    "en": "Ans"
+  },
+  "shape": {
+    "MNIST_ep10": [
+      1,
+      28,
+      28,
+      1
+    ]
+  },
+  "model": {
+    "MNIST_ep10": "MNIST_ep10.h5"
+  }
+}
